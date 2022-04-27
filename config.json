@@ -1,0 +1,17 @@
+{
+  "credentials": {
+    "tenantID": "",
+    "clientID": "",
+    "audience": ""
+  },
+  "metadata": {
+    "authority": "",
+    "discovery": "",
+    "version": "v2.0"
+  },
+  "settings": {
+    "validateIssuer": true,
+    "passReqToCallback": false,
+    "loggingLevel": "info"
+  }
+}
